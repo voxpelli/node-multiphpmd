@@ -22,3 +22,8 @@ To check all staged files in git, do:
 Or the equivalent shorter:
 
     git diff --name-only --staged | multiphpmd
+
+Support
+--------
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=voxpelli&url=https://github.com/voxpelli/node-multiphpmd&title=MultiPHPMD&language=en_GB&tags=github&category=software) 
