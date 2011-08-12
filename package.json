@@ -1,0 +1,21 @@
+{
+  "name": "multiphpmd",
+  "version": "0.0.1",
+  "description": "A script for in parallell checking multiple specific files in PHPMD.",
+  "author": {
+    "name" : "Pelle Wessman",
+    "email": "pelle@kodfabrik.se",
+    "url"  : "http://kodfabrik.se/"
+  },
+  "license": "MIT",
+  "engines":  { "node" : ">=0.4.10" },
+  "main": "./lib/multiphpmd",
+  "directories": {
+    "lib": "./lib",
+    "bin": "./bin"
+  },
+  "bin": {
+    "multiphpmd": "./bin/multiphpmd"
+  },
+  "preferGlobal": true
+}

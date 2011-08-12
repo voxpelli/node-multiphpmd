@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+require('../lib/multiphpmd').exec(process.argv, process.stdin);
