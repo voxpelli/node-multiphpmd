@@ -1,7 +1,7 @@
 MultiPHPMD
 =============
 
-A script for in parallell checking multiple specific files in PHPMD.
+A script for in parallell checking multiple specific files in [PHPMD](http://phpmd.org/).
 
 Install
 --------
