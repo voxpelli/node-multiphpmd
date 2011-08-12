@@ -10,7 +10,7 @@ Standalone installation:
 
     git clone http://github.com/voxpelli/node-multiphpmd.git
     cd node-multiphpmd
-    npm install
+    npm install -g
 
 Example
 --------
